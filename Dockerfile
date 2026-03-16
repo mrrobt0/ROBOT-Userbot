@@ -1,6 +1,6 @@
 FROM thejmthon/jmub:slim-buster
 
-RUN git clone https://github.com/ZThon-Bot/ZTele.git /root/jmub
+RUN git clone https://github.com/mrrobt0/AROBOT.git /root/jmub
 
 WORKDIR /root/jmub
 
